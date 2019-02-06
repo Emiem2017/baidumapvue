@@ -1,0 +1,28 @@
+{
+  "cordova-plugin-camera": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-camera@^4.0.3"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-baidu-location": {
+    "source": {
+      "type": "registry",
+      "id": "https://github.com/huangliop/BaiduLocation4Cordova.git"
+    },
+    "is_top_level": true,
+    "variables": {
+      "API_KEY": "bfimplzNgNSaaTGywRWKfdZqW6OafU3t"
+    }
+  }
+}
