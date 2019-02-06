@@ -1,5 +1,5 @@
 #进入vue目录下执行npm run build
 #然后返回上级目录执行 cordova build android和cordova run android
 
-node版本：10.15.0
-cordova版本：8.1.2
+#node版本：10.15.0
+#cordova版本：8.1.2
